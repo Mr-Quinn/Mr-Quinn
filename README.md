@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Mr-Quinn
 - 👀 I’m interested in all .arr apps to support my personal Plex Libraries.
-I utilize 2 Synology NAS for movies (radarr) & tv shows / music library, Sonarr & Lidarr. A reconfigured AS6706T running TrueNAS SCALE for a few of the other essential apps.
-Tailscale is the best for me to have secure access. With this I have cut cable/sat service completely. Also using Ubiquity for network & to monitor my home cams security.
+I utilize 2 Synology NAS for movies (radarr) & tv shows / music library, Sonarr & Lidarr. A reconfigured AS6706T running UnRaid for a few of the other essential apps.
+Tailscale is the best for me to have secure access. With this I have cut cable/sat service completely. Also using Ubiquity for the network & to monitor my home cams security.
